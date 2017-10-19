@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+#body {
+  margin: auto;
+  margin-top: 60px;
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+  padding: 8px;
+  display: inline-block;
+  background: red;
+}
+#purple {
+  width: 200px;
+  height: 200px;
+  background: purple;
+  margin: 40px;
+  float: left;
+}
+#yellow {
+  width: 100px;
+  height: 100px;
+  background: yellow;
+}
